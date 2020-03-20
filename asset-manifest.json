@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ZehirArlinnor/home-field/static/css/main.f0014c44.chunk.css",
+    "main.js": "/ZehirArlinnor/home-field/static/js/main.0757ed28.chunk.js",
+    "main.js.map": "/ZehirArlinnor/home-field/static/js/main.0757ed28.chunk.js.map",
+    "runtime-main.js": "/ZehirArlinnor/home-field/static/js/runtime-main.2ba69760.js",
+    "runtime-main.js.map": "/ZehirArlinnor/home-field/static/js/runtime-main.2ba69760.js.map",
+    "static/js/2.5565b429.chunk.js": "/ZehirArlinnor/home-field/static/js/2.5565b429.chunk.js",
+    "static/js/2.5565b429.chunk.js.map": "/ZehirArlinnor/home-field/static/js/2.5565b429.chunk.js.map",
+    "index.html": "/ZehirArlinnor/home-field/index.html",
+    "precache-manifest.2620ea6cf499d2e73aa927966abd865b.js": "/ZehirArlinnor/home-field/precache-manifest.2620ea6cf499d2e73aa927966abd865b.js",
+    "service-worker.js": "/ZehirArlinnor/home-field/service-worker.js",
+    "static/css/main.f0014c44.chunk.css.map": "/ZehirArlinnor/home-field/static/css/main.f0014c44.chunk.css.map",
+    "static/js/2.5565b429.chunk.js.LICENSE.txt": "/ZehirArlinnor/home-field/static/js/2.5565b429.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/ZehirArlinnor/home-field/static/media/CormorantGaramond-SemiBold.3ccaf14c.ttf",
+    "static/media/head.svg": "/ZehirArlinnor/home-field/static/media/head.3dc3a2ad.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba69760.js",
+    "static/js/2.5565b429.chunk.js",
+    "static/css/main.f0014c44.chunk.css",
+    "static/js/main.0757ed28.chunk.js"
+  ]
+}
