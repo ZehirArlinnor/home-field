@@ -13,7 +13,7 @@ import './index.scss';
 // endregion
 
 ReactDOM.render(
-  <Router>
+  <Router basename={process.env.PUBLIC_URL}>
     <Route exact path="/" component={HomeField} />
     <Route exact path="/about" />
   </Router>,
