@@ -1,24 +1,56 @@
 div.home-field {
+  /* Box-model */
+  display: flex;
   width: 100vw;
   height: 100vh;
-  background: gray;
-  display: flex;
+  padding: 0 2vw;
+
+  /* Flexible Box */
   flex-direction: column;
 
+  /* Visual */
+  background: black;
+  box-sizing: border-box;
+
   & > .header {
-    height: 10vh;
+    /* Box-model */
     display: flex;
+    padding: 2.96vh;
+
+    /* Flexible Box */
     justify-content: center;
     align-items: center;
-    color: oldlace;
+
+    & > .page-title {
+      /* Box-model */
+      display: flex;
+
+      /* Flexible Box */
+      flex-direction: column;
+      align-items: center;
+
+      /* Typography */
+      color: white;
+    }
   }
 
   & > .frame {
-    margin: 0 5vw 5vh 5vw;
-    width: 90vw;
-    height: 80vh;
-    background: oldlace;
-    border-radius: 10vh;
-    border-style: double;
+    /* Box-model */
+    display: flex;
+    height: 100%;
+
+    /* Visual */
+    border: 0.21vw double oldlace;
+    border-radius: 1.67vw;
+  }
+
+  & > .footer {
+    /* Box-model */
+    display: flex;
+
+    /* Flexible Box */
+    justify-content: flex-end;
+
+    color: oldlace;
   }
 }
